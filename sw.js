@@ -1,11 +1,11 @@
 const CACHE_NAME = 'pwa-task-list-v1';
 const urlsToCache = [
-    '/listasdetarefas/',
-    '/listasdetarefas/index.html',
-    '/listasdetarefas/style.css',
-    '/listasdetarefas/manifest.json',
-    '/listasdetarefas/icons/icon-192x192.png',
-    '/listasdetarefas/icons/icon-512x512.png'
+    '/',
+    '/index.html',
+    '/style.css',
+    '/manifest.json',
+    '/icons/icon-192x192.png',
+    '/icons/icon-512x512.png'
 ];
 
 self.addEventListener('install', event => {
