@@ -1,6 +1,6 @@
 const CACHE_NAME = 'pwa-task-list-v1';
 const urlsToCache = [
-    'listadetarefas/',
+    '/listadetarefas/',
     '/listadetarefas/index.html',
     '/listadetarefas/style.css',
     '/listadetarefas/manifest.json',
